@@ -1,0 +1,42 @@
+body { 
+    background-color: black;
+}
+.container {
+    margin: auto;
+    width: 400px;
+    background-color: white;
+}
+.header {
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 5px 3px 5px;
+}
+.header_left {
+    display: flex;
+}
+.header img {
+    display: flex;
+    justify-content: center;
+    height: 40px;
+}
+.header_title {
+    display: flex;
+    flex-direction: column;
+    justify-content: ;
+}
+.social {
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    padding: 5px 5px 3px 5px;
+}
+.social img {
+    height: 30px;
+}
+.image img {
+    width: 400px;
+}
+.content {
+    padding: 0px 10px 5px 10px;
+}
